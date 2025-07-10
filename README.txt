@@ -1,5 +1,10 @@
 VIDEO STITCHER
 
+The app allows you take videos that you have taken frames from to create new videos to extend a fluid video, BUT you only have the raw videos that are not trimmed... This solves that.
+Create your videos, and save them local in the order that you want them to flow.
+Then upload the video to the app and it will find the input image within the video and trim them perfectly.
+
+
 Instructions:
 
 1. Unzip everything into a folder.
