@@ -1,0 +1,5 @@
+/venv
+/output/*.mp3
+/output/*.mp4
+app/output/uploaded_music.mp3
+app/output/*.mp4
